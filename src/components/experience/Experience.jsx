@@ -10,41 +10,48 @@ const Experience = () => {
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Principales herramientas</h3>
+          <h3>Primary Tools</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsFillPatchCheckFill className= 'experience__details-icon'/>
               <div>
-                <h4>BD relacional</h4>
-                <small>Experto</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className= 'experience__details-icon'/>
-              <div>
-                <h4>Angular</h4>
-                <small>Experto</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className= 'experience__details-icon'/>
-              <div>
-                <h4>Azure</h4>
-                <small>Experto</small>
+                <h4>C#</h4>
+                <small><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Learn C#</a></small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className= 'experience__details-icon'/>
               <div>
                 <h4>.NET</h4>
-                <small>Experto</small>
+                <small><a href="https://learn.microsoft.com/es-es/dotnet/">Learn .NET</a></small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className= 'experience__details-icon'/>
               <div>
-                <h4>C# y C++</h4>
-                <small>Experto</small>
+                <h4>Azure</h4>
+                <small><a href="https://learn.microsoft.com/es-es/azure/?product=popular">Learn AZURE</a></small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className= 'experience__details-icon'/>
+              <div>
+                <h4>JS | TS</h4>
+                <small><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">Learn JS</a></small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className= 'experience__details-icon'/>
+              <div>
+                <h4>Angular</h4>
+                <small><a href="https://angular.io/docs">Learn Angular</a></small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className= 'experience__details-icon'/>
+              <div>
+                <h4>Relational Databases</h4>
+                <small><a href="https://www.codecademy.com/learn/learn-sql">Learn SQL</a></small>
               </div>
             </article>
           </div>
@@ -53,48 +60,34 @@ const Experience = () => {
         {/*FIN DEL LA EXPERIENCIA FRONTEND */}
 
         <div className="experience__backend">
-        <h3>Herremientas complementarias</h3>
+        <h3>Other Tools</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsFillPatchCheckFill className= 'experience__details-icon'/>
               <div>
-                <h4>HTML</h4>
-                <small>Experto</small>
+                <h4>Java</h4>
+                <small><a href="https://docs.oracle.com/en/java/">Learn Java</a></small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className= 'experience__details-icon'/>
               <div>
-                <h4>HTML</h4>
-                <small>Experto</small>
+                <h4>PHP</h4>
+                <small><a href="https://www.php.net/docs.php">Learn PHP</a></small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className= 'experience__details-icon'/>
               <div>
-                <h4>HTML</h4>
-                <small>Experto</small>
+                <h4>Python</h4>
+                <small><a href="https://docs.python.org/3/">Learn Python</a></small>
               </div>
             </article>
             <article className='experience__details'>
               <BsFillPatchCheckFill className= 'experience__details-icon'/>
               <div>
-                <h4>HTML</h4>
-                <small>Experto</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className= 'experience__details-icon'/>
-              <div>
-                <h4>HTML</h4>
-                <small>Experto</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill className= 'experience__details-icon'/>
-              <div>
-                <h4>HTML</h4>
-                <small>Experto</small>
+                <h4>Go</h4>
+                <small><a href="https://learn.microsoft.com/en-us/training/paths/go-first-steps/">Learn Go</a></small>
               </div>
             </article>
           </div>

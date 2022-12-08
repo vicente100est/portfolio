@@ -5,42 +5,30 @@ import {GoCheck} from 'react-icons/go'
 const Services = () => {
   return (
     <section id='services'>
-      <h5>Qué ofresco</h5>
-      <h2>Servicios</h2>
+      <h5>How can I help you as a </h5>
+      <h2>developer ?</h2>
 
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>Diseño UI/UX</h3>
+            <h3>IT Infrastructure</h3>
           </div>
           <ul className="service__list">
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Routing and Switching.</p>
             </li>
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Experience Using <a href="https://www.cisco.com">Cisco</a> Devices.</p>
             </li>
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Linux Server Administration.</p>
             </li>
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-            </li>
-            <li>
-              <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-            </li>
-            <li>
-              <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-            </li>
-            <li>
-              <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Windows Server Administration.</p>
             </li>
           </ul>
         </article>
@@ -49,36 +37,24 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Web development</h3>
+            <h3>Software Engineering</h3>
           </div>
           <ul className="service__list">
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Cloud Computing Solutions.</p>
             </li>
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Relational Database Design.</p>
             </li>
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Backend Development.</p>
             </li>
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-            </li>
-            <li>
-              <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-            </li>
-            <li>
-              <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-            </li>
-            <li>
-              <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Frontend Development.</p>
             </li>
           </ul>
         </article>
@@ -87,36 +63,24 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Community Manager</h3>
+            <h3>Software Architectures</h3>
           </div>
           <ul className="service__list">
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>MVC.</p>
             </li>
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Microservices.</p>
             </li>
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Layered.</p>
             </li>
             <li>
               <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-            </li>
-            <li>
-              <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-            </li>
-            <li>
-              <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-            </li>
-            <li>
-              <GoCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+              <p>Event-Driven.</p>
             </li>
           </ul>
         </article>

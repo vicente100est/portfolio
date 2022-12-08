@@ -39,8 +39,8 @@ const About = () => {
                     </div>
 
                     <p>Vicente Estrada is a software engineer, graduated from the Universidad Tecnológica
-                        de Nezahualcóyotl (UTN) with extensive knowledge in Cloud Computing, IT Solution
-                        Design and Backend Development. I enjoy my job, I think Software is the best tool
+                        de Nezahualcóyotl (UTN) with extensive knowledge in Cloud Computing, Backend
+                        Architecture and Development. I enjoy my job, I think Software is the best tool
                         to solve all human problems.
                     </p>
 
