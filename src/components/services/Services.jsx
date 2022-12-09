@@ -56,6 +56,14 @@ const Services = () => {
               <GoCheck className='service__list-icon'/>
               <p>Frontend Development.</p>
             </li>
+            <li>
+              <GoCheck className='service__list-icon'/>
+              <p>Mobile Development.</p>
+            </li>
+            <li>
+              <GoCheck className='service__list-icon'/>
+              <p>Desktop Development.</p>
+            </li>
           </ul>
         </article>
 

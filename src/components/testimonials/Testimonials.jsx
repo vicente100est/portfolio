@@ -1,9 +1,10 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar2.jpg'
+import AVTR1 from '../../assets/avatar1.png'
+import AVTR2 from '../../assets/avatar2.png'
 import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+import AVTR4 from '../../assets/TECSA.png'
+import AVTR5 from '../../assets/avatar5.png'
 
 // import Swiper core and required modules
 import { Pagination} from 'swiper';
@@ -17,32 +18,37 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Nombre cliente',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, similique. Debitis omnis ad molestiae perspiciatis officia, fuga sequi, voluptatibus nam aut totam sint eligendi est deserunt nihil, laborum ut facere'
+    name: 'Intelexion',
+    review: 'Monterrey Nuevo León, Mx.'
   },
   {
     avatar: AVTR2,
-    name: 'Nombre cliente',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, similique. Debitis omnis ad molestiae perspiciatis officia, fuga sequi, voluptatibus nam aut totam sint eligendi est deserunt nihil, laborum ut facere'
+    name: 'Organic Nails',
+    review: 'Queretaro, Mx. | Zapopan Jalisco, Mx.'
   },
   {
     avatar: AVTR3,
-    name: 'Nombre cliente',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, similique. Debitis omnis ad molestiae perspiciatis officia, fuga sequi, voluptatibus nam aut totam sint eligendi est deserunt nihil, laborum ut facere'
+    name: 'Map Lander',
+    review: 'Ciudad de México, Mx.'
   },
   {
     avatar: AVTR4,
-    name: 'Nombre cliente',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, similique. Debitis omnis ad molestiae perspiciatis officia, fuga sequi, voluptatibus nam aut totam sint eligendi est deserunt nihil, laborum ut facere'
+    name: 'Tecnica en Colectores',
+    review: 'Estado de México, Mx.'
   },
+  {
+    avatar: AVTR5,
+    name: 'Tecnología en Colectores',
+    review: 'Estado de México, Mx.'
+  }
 ]
 //Fin del Array
 
 const Testimonials = () => {
   return (
     <section id='testimonials'>
-      <h5>Opinión de clientes</h5>
-      <h2>Testimonios</h2>
+      <h5>Companies with which I have collaborated</h5>
+      <h2>I have collaborated</h2>
       
       <Swiper className="container testimonials__container"
       // install Swiper modules

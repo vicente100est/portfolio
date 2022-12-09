@@ -40,8 +40,8 @@ const About = () => {
 
                     <p>Vicente Estrada is a software engineer, graduated from the Universidad Tecnológica
                         de Nezahualcóyotl (UTN) with extensive knowledge in Cloud Computing, Backend
-                        Architecture and Development. I enjoy my job, I think Software is the best tool
-                        to solve all human problems.
+                        Architecture and Development, Frontend, Mobile and Desktop. I enjoy my job,
+                        Programming is my profession and hobby
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Contact Me</a>

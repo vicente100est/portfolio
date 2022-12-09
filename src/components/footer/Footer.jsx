@@ -26,7 +26,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; <a href="https://www.linkedin.com/in/pamela-garcia-ortiz/">Pamela Garcia</a>   ||   2022</small>
+        <small>&copy; <a href="http://vicentc0de.com/">Vicente Estrada</a>   ||   2023</small>
       </div>
     </footer>
   )
