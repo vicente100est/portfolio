@@ -1,6 +1,7 @@
 import React from 'react'
 import './nav.css'
 import {AiFillHome} from 'react-icons/ai'
+import { IconName } from "react-icons/fc";
 import {FaUserTie} from 'react-icons/fa'
 import {SiBookstack} from 'react-icons/si'
 import {MdHomeRepairService} from 'react-icons/md'

@@ -10,13 +10,14 @@ const Footer = () => {
       <a href="#" className='footer__logo'>Vicente Estrada</a>
 
       <ul className="permalinks">
-        <li><a href="#">Inicio</a></li>
-        <li><a href="#about">Sobre mi</a></li>
-        <li><a href="#experience">Experiencia</a></li>
-        <li><a href="#services">Servicios</a></li>
-        <li><a href="#portfolio">Portafolio</a></li>
-        <li><a href="#testimonials">Testimonios</a></li>
-        <li><a href="#contact">Contactame</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="http://blog.vicentc0de.com/">Blog</a></li>
+        <li><a href="#about">Who is VicentC0de</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#services">How can I help you as a developer?</a></li>
+        <li><a href="#portfolio">Projects</a></li>
+        <li><a href="#testimonials">Companies</a></li>
+        <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="footer__socials">

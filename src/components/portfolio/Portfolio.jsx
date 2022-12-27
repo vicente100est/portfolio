@@ -61,10 +61,10 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3>Organic Nails Queretaro | E-Commerce</h3>
+          <h3>HTML MAker</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/#" className='btn'>Github</a>
-            <a href="https://organicnailsqueretaro.com/" className='btn btn-primary' target='_blank'>Visit</a>
+            <a href="https://github.com/vicente100est/htmlmaker" className='btn'>Github</a>
+            <a href="https://proyectov2-1d4e2.web.app/" className='btn btn-primary' target='_blank'>Visit</a>
           </div>
         </article>
 

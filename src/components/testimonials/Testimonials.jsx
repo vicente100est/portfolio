@@ -5,6 +5,8 @@ import AVTR2 from '../../assets/avatar2.png'
 import AVTR3 from '../../assets/avatar3.jpg'
 import AVTR4 from '../../assets/TECSA.png'
 import AVTR5 from '../../assets/avatar5.png'
+import AVTR6 from '../../assets/avatar6.png'
+
 
 // import Swiper core and required modules
 import { Pagination} from 'swiper';
@@ -17,14 +19,14 @@ import 'swiper/css/pagination';
 //Array testimonials
 const data = [
   {
+    avatar: AVTR6,
+    name: '.Net Framework',
+    review: '.Net Foundation Member'
+  },
+  {
     avatar: AVTR1,
     name: 'Intelexion',
     review: 'Monterrey Nuevo León, Mx.'
-  },
-  {
-    avatar: AVTR2,
-    name: 'Organic Nails',
-    review: 'Queretaro, Mx. | Zapopan Jalisco, Mx.'
   },
   {
     avatar: AVTR3,
@@ -40,7 +42,12 @@ const data = [
     avatar: AVTR5,
     name: 'Tecnología en Colectores',
     review: 'Estado de México, Mx.'
-  }
+  },
+  {
+    avatar: AVTR2,
+    name: 'Organic Nails',
+    review: 'Queretaro, Mx.'
+  },
 ]
 //Fin del Array
 
