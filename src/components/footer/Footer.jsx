@@ -14,7 +14,6 @@ const Footer = () => {
         <li><a href="http://blog.vicentc0de.com/">Blog</a></li>
         <li><a href="#about">Who is VicentC0de</a></li>
         <li><a href="#experience">Experience</a></li>
-        <li><a href="#services">How can I help you as a developer?</a></li>
         <li><a href="#portfolio">Projects</a></li>
         <li><a href="#testimonials">Companies</a></li>
         <li><a href="#contact">Contact</a></li>
